@@ -20,23 +20,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+The green bot
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O projeto consiste numa imagem, feita com o site Leonardo.AI. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Leonardo.AI
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Os criterios no prompt de comando foram; "a green, strong robot, in the Marvel style, like HULK"
+
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+C:\Users\Desk\Downloads\Default_robot_green_and_strong_like_HULK_2.jpg
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Criar algo "natty" com IA é surpreendentemente fácil. Com tecnologia de IA atual, é possível gerar designs elegantes e modernos, capturando as últimas tendências e estilos pessoais de uma forma rápida e fácil.
 
 ### Exemplos e Insigths
 
